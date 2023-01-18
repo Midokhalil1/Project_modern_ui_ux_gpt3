@@ -4,7 +4,7 @@ import './possibility.css'
 const Possibility = () => {
   return (
     <div>
-      Blog
+      Possibility
     </div>
   )
 }

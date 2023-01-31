@@ -1,5 +1,5 @@
 import React from 'react'
-import { Feature } from '../../components'
+import { Feature } from './features/Features'
 import './whatGPT3.css'
 
 
